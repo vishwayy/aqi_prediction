@@ -17,20 +17,11 @@ This GitHub repository contains the code and resources for predicting Air Qualit
 4. **Evaluation Metrics:** Assessment of model performance using relevant metrics.
 5. **Visualization:** Visual representation of predicted AQI values compared to actual values.
 
-## Getting Started
-
-1. Clone the repository:
+## Clone the repository:
    ```bash
    git clone https://github.com/your-username/aqi-prediction-linear-regression.git
    cd aqi-prediction-linear-regression
    ```
-
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Follow the Jupyter notebook or Python script for step-by-step implementation and analysis.
 
 ## Contributing
 
